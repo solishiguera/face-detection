@@ -1,2 +1,2 @@
 # face-detection
-Trying out openCV
+Checking out openCV
